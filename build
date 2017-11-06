@@ -1,1 +1,1 @@
-docker build -t rawmind/alpine-tools:$(cat version) .
+docker build -t registry.devops.connectedfleet.io/alpine-tools:$(cat version) .
